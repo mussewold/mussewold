@@ -6,3 +6,4 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mussewold&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mussewold&show_icons=true&theme=transparent)
