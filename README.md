@@ -1,5 +1,5 @@
 
-- 👋 Hi, I’m Musse aka Mos, a TensorFlow Certified Developer  
+- 👋 Hi, I’m Musse aka Mos, a Full-Stack Developer  
 - 👀 I’m interested in Computers and programming
 - 🌱 I’m passinate about DeepLearning and Machine Learning
 - 💞️ I’m looking to collaborate on ML and Data Science projects
